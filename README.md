@@ -1,0 +1,1 @@
+https://vercel.com/docs/integrations#component-catalog
